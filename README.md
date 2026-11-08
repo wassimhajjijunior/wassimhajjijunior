@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hajji-wassim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:wassim.hajji.whi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:wassim.hajji@supcom.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-PFE%20Feb%202027-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-Tunis%2C%20Tunisia-0A2878?style=for-the-badge" />
 </p>
@@ -53,18 +53,12 @@ ICT Engineering student at **SUP'COM** (Tunis). I learn by building: I design di
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wassimhajjijunior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimhajjijunior&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wassimhajjijunior&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wassimhajjijunior&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
+
 
 ## 🐍 Contribution snake
 
