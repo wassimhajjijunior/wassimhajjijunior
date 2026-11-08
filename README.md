@@ -68,13 +68,7 @@ ICT Engineering student at **SUP'COM** (Tunis). I learn by building: I design di
 
 ## 🐍 Contribution snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wassimhajjijunior/wassimhajjijunior/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wassimhajjijunior/wassimhajjijunior/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/wassimhajjijunior/wassimhajjijunior/output/github-snake.svg" />
-  </picture>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/wassimhajjijunior/wassimhajjijunior/main/snake-green.svg" alt="decorative snake animation" /> </p>
 
 ## 🤝 Let's connect
 
