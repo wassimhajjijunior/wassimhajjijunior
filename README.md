@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2878,100:4C8DFF&height=210&section=header&text=Wassim%20Hajji&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Backend%20Engineer%20%7C%20SUP%27COM%20Tunis&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg" alt="header" />
 </p>
 
 <!-- Typing animation -->
